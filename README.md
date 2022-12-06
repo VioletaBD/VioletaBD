@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**VioletaBD/VioletaBD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
-Here are some ideas to get you started:
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je m'appelle Violeta et j'adore apprendre de nouvelles langues !
+
+En ce moment, j'apprends à coder avec la Wild Code School et j'évolue en tant que développeur web.
+A la recherche d'une alternance pour pouvoir me perfectionner et monter en competance dans le développement d'applications web.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VioletaBD)](https://github.com/VioletaBD/github-readme-stats)
