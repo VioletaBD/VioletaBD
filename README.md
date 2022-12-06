@@ -1,9 +1,7 @@
 ### Hi there 👋
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="200"/>
 </div>
-
 Je m'appelle Violeta et j'adore apprendre de nouvelles langues !
 
 En ce moment, j'apprends à coder avec la Wild Code School et j'évolue en tant que développeur web.
