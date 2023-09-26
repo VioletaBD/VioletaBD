@@ -7,8 +7,6 @@
 
 <p align="center">En ce moment, j'apprends à coder avec la Wild Code School et j'évolue en tant que développeur web.</p>
 
-<p align="center">A la recherche d'une alternance pour pouvoir me perfectionner et monter en competance dans le développement d'applications web.</p>
-
 
 
 ### Skills and Experience:
