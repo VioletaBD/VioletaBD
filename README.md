@@ -5,8 +5,6 @@
 
 <p align="center">Je m'appelle Violeta et j'adore apprendre de nouvelles langues !</p>
 
-<p align="center">En ce moment, j'apprends à coder avec la Wild Code School et j'évolue en tant que développeur web.</p>
-
 
 
 ### Skills and Experience:
