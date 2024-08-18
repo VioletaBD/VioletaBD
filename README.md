@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="200"/>
 </div>
 
-<p align="center">Je m'appelle Violeta</p>
+<p align="center">Hi</p>
 
 
 
